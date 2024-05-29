@@ -1,0 +1,22 @@
+Command
+
+git status = (Showing status)
+
+git init = For initiating git in this folder
+
+git add . = folder ma vayeko file lai commit garnu vanda agadi ko stage
+
+git commit -m "Version 1" = for adding
+
+git log = Shows information
+
+git config --global user.name "Prasidha nepal" (--global = aru repo ma pani use garna milxa)
+git config --global user.email "prasidha@nepal.gov"
+
+git diff utiliz.txt.txt = file ma k change garya xa vanera herna 
+
+
+
+
+
+
