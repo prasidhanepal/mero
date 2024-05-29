@@ -15,6 +15,11 @@ git config --global user.email "prasidha@nepal.gov"
 
 git diff utiliz.txt.txt = file ma k change garya xa vanera herna 
 
+git diff --staged (...txt)  = k change gar xa vanera herna
+
+ git reset Command.txt
+
+ git checkout Command.txt
 
 
 
